@@ -23,9 +23,8 @@ hello , I'm koe (real name , Anish dutta ) and I'm from india , northeast assam 
   <img src="https://streak-stats.demolab.com?user=Koe458-ui&theme=transparent" />
 </p>
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
