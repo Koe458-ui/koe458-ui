@@ -1,7 +1,7 @@
 <h1 align="center">Introduction</h1>
 
 <p align="center">
-  hello , I'm koe (real name , Anish dutta ) and I'm from india , northeast assam . I'm currently working on my own website oredlab , oredlab is a art community website and a artificial intelligence which was built from scratch and trained by me and my friends.
+  hello , I'm koe (real name , Anish dutta ) and I'm from india , northeast assam . I'm currently working on my own website oredlab , oredlab is a artificial intelligence which was built from scratch and trained by me and my friends.
 </p>
 
 <h1 align="center">Tech Stack</h1>
