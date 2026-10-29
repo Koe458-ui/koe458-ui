@@ -28,6 +28,4 @@
 
 <h1 align="center">Contribution Snake</h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+
