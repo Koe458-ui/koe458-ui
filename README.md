@@ -26,6 +26,5 @@
   <img src="https://streak-stats.demolab.com?user=Koe458-ui&theme=transparent" />
 </p>
 
-<h1 align="center">Contribution Snake</h1>
 
 
