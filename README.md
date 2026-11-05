@@ -27,8 +27,9 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/Koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF1F2D" alt="Last commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Commits this year" />
 </p>
 
 <h1 align="center">Contribution Streak</h1>
