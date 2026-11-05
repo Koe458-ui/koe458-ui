@@ -78,7 +78,7 @@
   </a>
 </p>
 
-<h1 align="center">Banner</h1>
+<h1 align="center">Ontro</h1>
 
 <p align="center">
   <img src="fireforce.svg" width="300" alt="Logo">
