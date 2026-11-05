@@ -1,6 +1,7 @@
 <p align="center">
   <img src="mikucolourful.svg" width="300" alt="Logo">
 </p>
+<h1> align = "center" > About Me </h1>
 
 <p align="center">
   <img src="./terminal-intro.svg" alt="Koe terminal intro" />
