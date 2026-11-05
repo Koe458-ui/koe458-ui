@@ -5,8 +5,6 @@
   I'm currently working on my own website, <b>OredLab</b>, an artificial intelligence built from scratch and trained by me and my friends.
 </p>
 
-<p align="center"><i>Art has no limits.</i></p>
-
 <h1 align="center">Projects</h1>
 
 <p align="center">
