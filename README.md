@@ -4,7 +4,7 @@
 <h1 align = "center" > About Me </h1>
 
 <p align="center">
-  <img src="./terminal-intro.svg" alt="Koe terminal intro" />
+  <img src="./terminal-intro.svg" width="100%" alt="Koe terminal intro" />
 </p>
 
 <h1 align="center">Introduction</h1>
@@ -132,5 +132,5 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 </p>
 
 <p align="center">
-  <img src="./terminal-outro.svg" alt="Koe outro" />
+  <img src="./terminal-outro.svg" width="100%" alt="Koe outro" />
 </p>
