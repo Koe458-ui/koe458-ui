@@ -12,6 +12,10 @@
 <p align="center">
   Hello, I'm Koe (real name Anish Dutta) from Northeast Assam, India.<br>
   I'm currently working on OredLab, an AI project built from scratch and trained by me and my friends.
+  I'm currently pursuing an MSc in Microelectronics and Advanced Communication.
+I'm learning HTML, CSS, Python, and Machine Learning.
+My interests include Machine Learning, Astronomy, Processor Design, and cars.
+  And uhmm IDK nothing really interesting about me 
 </p>
 
 <h1 align="center">Projects</h1>
