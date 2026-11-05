@@ -19,14 +19,8 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Koe458-ui&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koe458-ui&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<h1 align="center">Contribution Streak</h1>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Koe458-ui&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <h1 align="center">Contribution Snake</h1>
