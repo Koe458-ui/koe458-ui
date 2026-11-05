@@ -80,9 +80,8 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF1F2D" alt="Last commit" />
-  <img src="https://img.shields.io/github/commit-activity/y/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Commits this year" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Koe458-ui&show_icons=true&theme=transparent&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koe458-ui&layout=compact&theme=transparent&hide_border=true" width="49%" />
 </p>
 
 <h1 align="center">Contribution Streak</h1>
