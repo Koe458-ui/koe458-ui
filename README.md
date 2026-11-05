@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <img src="miku.svg" width="300" alt="Logo">
+  <img src="guts.svg" width="300" alt="Logo">
 </p>
