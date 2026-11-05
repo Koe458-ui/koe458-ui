@@ -66,5 +66,8 @@
 </p>
 
 <p align="center">
+  <img src="fireforce.svg" width="300" alt="Logo">
+</p>
+<p align="center">
   <img src="guts.svg" width="300" alt="Logo">
 </p>
