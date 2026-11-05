@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width=640 height=220 viewBox="0 0 640 220">
+  <rect x="0.5" y="0.5" width="639" height="219" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <rect x="40" y="36" width="72" height="72" rx="18" fill="#FFFFFF"/>
+  <circle cx="76" cy="72" r="17.5" fill="none" stroke="#0D1117" stroke-width="8"/>
+  <text x="132" y="80" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">Ored<tspan font-weight="400">Lab</tspan></text>
+  <text x="132" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#9CA3AF">An  AI built from scratch by me and my friends and also trained by me and my frds as well. Will keep improving it, want to help us? Click on Contribute and read the required documents to understand how you can help us.</text>
+  <text x="132" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#60A5FA">Simple, private, and yours.</text>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#E5E7EB" text-anchor="middle">
+    <rect x="40" y="164" width="145" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+    <text x="112.5" y="183">Built from scratch</text>
+    <rect x="197" y="164" width="124" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+    <text x="259" y="183">Local inference</text>
+    <rect x="333" y="164" width="111" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+    <text x="388.5" y="183">Free download</text>
+    <rect x="456" y="164" width="131" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+    <text x="521.5" y="183">Open development</text>
+  </g>
+</svg>
