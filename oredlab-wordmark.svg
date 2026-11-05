@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="90" viewBox="0 0 300 90">
-  <rect width="300" height="90" rx="16" fill="#0d1117"/>
-  <text x="150" y="62" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-weight="700">
-    <tspan font-size="64" fill="#FF8C00">O</tspan><tspan font-size="44" fill="#E02424">red</tspan><tspan font-size="44" fill="#FFFFFF">Lab</tspan>
-  </text>
-</svg>
