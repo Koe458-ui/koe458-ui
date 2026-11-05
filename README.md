@@ -26,7 +26,7 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 </p>
 
 <p align="center">
-  <i>An AI built from scratch and trained with friends.</i>
+  <i>An AI built from scratch by me and my friends and also trained my be and my frds as well . Will keep improving it , want to help us click at contribute and read the required documents to understand how can you help us .</i>
   <br>
   Simple, private, and yours.
 </p>
