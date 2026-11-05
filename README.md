@@ -1,20 +1,31 @@
+
 <p align="center">
   <img src="jesko.svg" width="300" alt="Logo">
+</p>
+
+<h1 align="center">ⓀⓄⒺ</h1>
+
+<p align="center">
+  ❅ 𝙰𝙸 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 ❅
 </p>
 
 <h1 align="center">Introduction</h1>
 
 <p align="center">
-  Hello, I'm Koe (real name Anish Dutta) from Northeast Assam, India.<br>
-  I'm currently working on my own website, <b>OredLab</b>, an artificial intelligence built from scratch and trained by me and my friends.
+  𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙺𝚘𝚎 (𝚛𝚎𝚊𝚕 𝚗𝚊𝚖𝚎 𝙰𝚗𝚒𝚜𝚑 𝙳𝚞𝚝𝚝𝚊) 𝚏𝚛𝚘𝚖 𝙽𝚘𝚛𝚝𝚑𝚎𝚊𝚜𝚝 𝙰𝚜𝚜𝚊𝚖, 𝙸𝚗𝚍𝚒𝚊.<br>
+  𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚖𝚢 𝚘𝚠𝚗 𝚠𝚎𝚋𝚜𝚒𝚝𝚎, <b>𝙾𝚛𝚎𝚍𝙻𝚊𝚋</b>, 𝚊𝚗 𝚊𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕 𝚒𝚗𝚝𝚎𝚕𝚕𝚒𝚐𝚎𝚗𝚌𝚎 𝚋𝚞𝚒𝚕𝚝 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 𝚊𝚗𝚍 𝚝𝚛𝚊𝚒𝚗𝚎𝚍 𝚋𝚢 𝚖𝚎 𝚊𝚗𝚍 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍𝚜.
 </p>
 
 <h1 align="center">Projects</h1>
 
 <p align="center">
-  <a href="https://oredlab.com"><img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" /></a>
+  <a href="https://oredlab.com">
+    <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" />
+  </a>
   <br>
-  <b><a href="https://oredlab.com">OredLab</a></b>: an AI built from scratch and trained with friends
+  <b><a href="https://oredlab.com">OredLab</a></b>
+  <br>
+  𝙰𝚗 𝙰𝙸 𝚋𝚞𝚒𝚕𝚝 𝚏𝚛𝚘𝚖 𝚜𝚌𝚛𝚊𝚝𝚌𝚑 𝚊𝚗𝚍 𝚝𝚛𝚊𝚒𝚗𝚎𝚍 𝚠𝚒𝚝𝚑 𝚏𝚛𝚒𝚎𝚗𝚍𝚜.
 </p>
 
 <h1 align="center">Tech Stack</h1>
@@ -36,13 +47,11 @@
   <img src="https://img.shields.io/github/commit-activity/y/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Commits this year" />
 </p>
 
-
 <h1 align="center">Contribution Streak</h1>
 
 <p align="center">
   <img src="./profile/streak.svg" alt="GitHub Streak">
 </p>
-
 
 <h1 align="center">Contribution Snake</h1>
 
@@ -57,7 +66,9 @@
 <h1 align="center">Connect</h1>
 
 <p align="center">
-  <a href="https://oredlab.com"><img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="OredLab" /></a>
+  <a href="https://oredlab.com">
+    <img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="OredLab" />
+  </a>
 </p>
 
 <p align="center">
