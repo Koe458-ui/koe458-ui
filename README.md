@@ -78,6 +78,7 @@
   </a>
 </p>
 
+<h1 align="center">Banner</h1>
 
 <p align="center">
   <img src="fireforce.svg" width="300" alt="Logo">
@@ -87,5 +88,5 @@
 </p>
 
 <p align="center">
-  <img src="./terminal-outro.svg" alt="Koe terminal outro" />
+  <img src="./terminal-outro.svg" alt="Koe outro" />
 </p>
