@@ -69,10 +69,22 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Spotify-Website-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Website" />
+<h1 align="center">Connect</h1>
 
-
-<img src="https://img.shields.io/badge/Steam-Website-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Website" />
+<p align="center">
+  <a href="https://oredlab.com">
+    <img src="https://img.shields.io/badge/OredLab-Website-2563EB?style=for-the-badge" alt="OredLab Website" />
+  </a>
+  <a href="https://x.com/koe_exe">
+    <img src="https://img.shields.io/badge/X-Website-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Website" />
+  </a>
+  <a href="https://open.spotify.com/user/31xnr6pppf2mamqynntddsm5jhdu?si=91BRqG1rSoO1Y4t7djOybg&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/Spotify-Website-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Website" />
+  </a>
+  <a href="YOUR_STEAM_PROFILE_URL">
+    <img src="https://img.shields.io/badge/Steam-Website-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Website" />
+  </a>
+</p>
 
 
 <p align="center">
