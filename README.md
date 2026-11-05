@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="matrix-rain.svg" alt="Matrix rain" width="100%">
+</p>
+
+<p align="center">
   <img src="mikucolourful.svg" width="300" alt="Logo">
 </p>
 <h1 align = "center" > About Me </h1>
