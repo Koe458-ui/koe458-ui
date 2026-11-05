@@ -33,14 +33,7 @@
 <h1 align="center">Projects</h1>
 
 <p align="center">
-  <img src="oredlab-logo.svg" height="90" alt="OredLab logo" align="middle" />
-  <img src="oredlab-wordmark.svg" height="90" alt="OredLab" align="middle" />
-</p>
-
-<p align="center">
-  <i>An AI built from scratch by me and my friends and also trained by me and my frds as well. Will keep improving it, want to help us? Click on Contribute and read the required documents to understand how you can help us.</i>
-  <br>
-  Simple, private, and yours.
+  <img src="oredlab-banner.svg" width="100%" alt="OredLab" />
 </p>
 
 <p align="center">
