@@ -28,9 +28,8 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
   <b><a href="https://oredlab.com">OredLab</a></b>
   <br>
   An AI built from scratch and trained with friends.
-</p>
-<p align="center">
   Everything Ored is built around: simple, private and yours.
+  Want to help us ? go to the repository and contribute.
 </p>
 
 <div align="center">
