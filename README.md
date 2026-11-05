@@ -1,7 +1,8 @@
 <p align="center">
   <img src="mikucolourful.svg" width="100%" alt="Logo">
 </p>
-<h1 align = "center" > About Me </h1>
+
+<h1 align="center">About Me</h1>
 
 <p align="center">
   <img src="./terminal-intro.svg" width="100%" alt="Koe terminal intro" />
@@ -13,9 +14,20 @@
   Hello, I'm Koe (real name Anish Dutta) from Northeast Assam, India.<br>
   I'm currently working on OredLab, an AI project built from scratch and trained by me and my friends.
   I'm currently pursuing an MSc in Microelectronics and Advanced Communication.
-I'm learning HTML, CSS, Python, and Machine Learning.
-My interests include Machine Learning, Astronomy, Processor Design, and cars.
-  And uhmm IDK nothing really interesting about me 
+  I'm learning HTML, CSS, Python, and Machine Learning.
+  My interests include Machine Learning, Astronomy, Processor Design, and cars.
+  And uhmm IDK nothing really interesting about me
+</p>
+
+<h1 align="center">Tech Stack</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 <h1 align="center">Projects</h1>
@@ -26,7 +38,7 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 </p>
 
 <p align="center">
-  <i>An AI built from scratch by me and my friends and also trained my be and my frds as well . Will keep improving it , want to help us click at contribute and read the required documents to understand how can you help us .</i>
+  <i>An AI built from scratch by me and my friends and also trained by me and my frds as well. Will keep improving it, want to help us? Click on Contribute and read the required documents to understand how you can help us.</i>
   <br>
   Simple, private, and yours.
 </p>
@@ -70,16 +82,7 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
   </tr>
 </table>
 
-<h1 align="center">Tech Stack</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-</p>
+</div>
 
 <h1 align="center">GitHub Stats</h1>
 
@@ -122,7 +125,7 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
   </a>
 </p>
 
-<h1 align="center">Ontro</h1>
+<h1 align="center">Outro</h1>
 
 <p align="center">
   <img src="fireforce.svg" width="100%" alt="Logo">
