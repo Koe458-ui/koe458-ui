@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="matrix-rain.svg" alt="Matrix rain" width="100%">
-</p>
-
-<p align="center">
-  <img src="mikucolourful.svg" width="300" alt="Logo">
+  <img src="mikucolourful.svg" width="100%" alt="Logo">
 </p>
 <h1 align = "center" > About Me </h1>
 
@@ -129,10 +125,10 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 <h1 align="center">Ontro</h1>
 
 <p align="center">
-  <img src="fireforce.svg" width="300" alt="Logo">
+  <img src="fireforce.svg" width="100%" alt="Logo">
 </p>
 <p align="center">
-  <img src="guts.svg" width="300" alt="Logo">
+  <img src="guts.svg" width="100%" alt="Logo">
 </p>
 
 <p align="center">
