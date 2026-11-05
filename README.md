@@ -5,6 +5,14 @@
   I'm currently working on my own website, <b>OredLab</b>, an artificial intelligence built from scratch and trained by me and my friends.
 </p>
 
+<p align="center"><i>Art has no limits.</i></p>
+
+<h1 align="center">Projects</h1>
+
+<p align="center">
+  <b><a href="https://oredlab.com">OredLab</a></b>: an AI built from scratch and trained with friends
+</p>
+
 <h1 align="center">Tech Stack</h1>
 
 <p align="center">
@@ -19,16 +27,28 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+</p>
+
+<h1 align="center">Contribution Streak</h1>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Koe458-ui&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
 <h1 align="center">Contribution Snake</h1>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Koe458-ui/Koe458-ui/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/output/github-snake.svg" />
   </picture>
+</p>
+
+<h1 align="center">Connect</h1>
+
+<p align="center">
+  <a href="https://oredlab.com"><img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="OredLab" /></a>
 </p>
