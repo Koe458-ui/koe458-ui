@@ -3,6 +3,10 @@
   <img src="mikucolourful.svg" width="300" alt="Logo">
 </p>
 
+<p align="center">
+  <img src="./terminal-intro.svg" alt="Koe terminal intro" />
+</p>
+
 <h1 align="center">𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗</h1>
 
 <p align="center">
