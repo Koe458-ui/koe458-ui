@@ -36,12 +36,6 @@
   <img src="oredlab-banner.svg" width="100%" alt="OredLab" />
 </p>
 
-<p align="center">
-  <a href="https://oredlab.com">Website</a> ·
-  <a href="https://github.com/Koe458-ui/oredlab">Repository</a> ·
-  <a href="https://github.com/Koe458-ui/oredlab/issues">Contribute</a>
-</p>
-
 <div align="center">
 
 <table>
@@ -76,6 +70,12 @@
 </table>
 
 </div>
+
+<p align="center">
+  <a href="https://oredlab.com">Website</a> ·
+  <a href="https://github.com/Koe458-ui/oredlab">Repository</a> ·
+  <a href="https://github.com/Koe458-ui/oredlab/issues">Contribute</a>
+</p>
 
 <h1 align="center">GitHub Stats</h1>
 
