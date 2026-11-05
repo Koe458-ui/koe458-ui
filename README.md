@@ -36,11 +36,13 @@
   <img src="https://img.shields.io/github/commit-activity/y/Koe458-ui/koe458-ui?style=for-the-badge&logo=github&color=FF6A00" alt="Commits this year" />
 </p>
 
+
 <h1 align="center">Contribution Streak</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Koe458-ui&theme=github-dark&hide_border=true" alt="GitHub streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak">
 </p>
+
 
 <h1 align="center">Contribution Snake</h1>
 
