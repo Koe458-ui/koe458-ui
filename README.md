@@ -8,6 +8,8 @@
 <h1 align="center">Projects</h1>
 
 <p align="center">
+  <a href="https://oredlab.com"><img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" /></a>
+  <br>
   <b><a href="https://oredlab.com">OredLab</a></b>: an AI built from scratch and trained with friends
 </p>
 
