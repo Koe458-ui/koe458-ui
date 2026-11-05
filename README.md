@@ -68,16 +68,11 @@
     <img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="OredLab" />
   </a>
 </p>
-<p align="center">
-  <a href="https://open.spotify.com/user/31xnr6pppf2mamqynntddsm5jhdu?si=91BRqG1rSoO1Y4t7djOybg&utm_source=copy-link">
-    <img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="Spotify" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://steamcommunity.com/my/">
-    <img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="Steam" />
-  </a>
-</p>
+
+<img src="https://img.shields.io/badge/Spotify-Website-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Website" />
+
+
+<img src="https://img.shields.io/badge/Steam-Website-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Website" />
 
 
 <p align="center">
