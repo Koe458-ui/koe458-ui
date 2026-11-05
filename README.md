@@ -21,15 +21,23 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 <h1 align="center">Projects</h1>
 
 <p align="center">
-  <a href="https://oredlab.com">
-    <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-wordmark.svg" height="70" alt="OredLab" />
+</p>
+
+<p align="center">
+  <i>An AI built from scratch and trained with friends.</i>
   <br>
-  <b><a href="https://oredlab.com">OredLab</a></b>
-  <br>
-  An AI built from scratch and trained with friends.
-  Everything Ored is built around: simple, private and yours.
-  Want to help us ? go to the repository and contribute.
+  Simple, private, and yours.
+</p>
+
+<p align="center">
+  <a href="https://oredlab.com">Website</a> ·
+  <a href="https://github.com/Koe458-ui/oredlab">Repository</a> ·
+  <a href="https://github.com/Koe458-ui/oredlab/issues">Contribute</a>
 </p>
 
 <div align="center">
