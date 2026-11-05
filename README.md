@@ -80,8 +80,8 @@
 <h1 align="center">GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koe458-ui&show_icons=true&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koe458-ui&layout=compact&theme=transparent&hide_border=true" />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages" />
 </p>
 
 <h1 align="center">Contribution Streak</h1>
