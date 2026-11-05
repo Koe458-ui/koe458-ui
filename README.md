@@ -85,3 +85,7 @@
 <p align="center">
   <img src="guts.svg" width="300" alt="Logo">
 </p>
+
+<p align="center">
+  <img src="./terminal-outro.svg" alt="Koe terminal outro" />
+</p>
