@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="jesko.svg" width="300" alt="Logo">
+</p>
+
 <h1 align="center">Introduction</h1>
 
 <p align="center">
