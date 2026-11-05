@@ -21,11 +21,8 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
 <h1 align="center">Projects</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-logo.svg" height="90" alt="OredLab logo" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Koe458-ui/koe458-ui/main/oredlab-wordmark.svg" height="70" alt="OredLab" />
+  <img src="oredlab-logo.svg" height="90" alt="OredLab logo" align="middle" />
+  <img src="oredlab-wordmark.svg" height="90" alt="OredLab" align="middle" />
 </p>
 
 <p align="center">
