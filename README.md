@@ -57,3 +57,7 @@
 <p align="center">
   <a href="https://oredlab.com"><img src="https://img.shields.io/badge/OredLab-website-blue?style=for-the-badge" alt="OredLab" /></a>
 </p>
+
+<p align="center">
+  <img src="miku.svg" width="300" alt="Logo">
+</p>
