@@ -29,6 +29,42 @@ My interests include Machine Learning, Astronomy, Processor Design, and cars.
   <br>
   An AI built from scratch and trained with friends.
 </p>
+<p align="center">
+  Everything Ored is built around: simple, private and yours.
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="center">Feature</th>
+    <th align="center">Details</th>
+  </tr>
+  <tr>
+    <td align="center">🧱 <b>Built from scratch</b></td>
+    <td align="center">Our own model, not a wrapper around someone else's</td>
+  </tr>
+  <tr>
+    <td align="center">⬇️ <b>Free local download</b></td>
+    <td align="center">Download Ored and keep it on your own PC</td>
+  </tr>
+  <tr>
+    <td align="center">💻 <b>Local inference</b></td>
+    <td align="center">Runs on your machine, no cloud AI services</td>
+  </tr>
+  <tr>
+    <td align="center">🧠 <b>Training and checkpoints</b></td>
+    <td align="center">Currently in training, checkpoints shared when stable</td>
+  </tr>
+  <tr>
+    <td align="center">🔓 <b>Open development</b></td>
+    <td align="center">Public repo and an open roadmap</td>
+  </tr>
+  <tr>
+    <td align="center">🔒 <b>Privacy and independence</b></td>
+    <td align="center">Your prompts stay on your machine, no accounts or API keys</td>
+  </tr>
+</table>
 
 <h1 align="center">Tech Stack</h1>
 
