@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="japanlambo.svg" width="300" alt="Logo">
+  <img src="mikucolourful.svg" width="300" alt="Logo">
 </p>
 
 <h1 align="center">𝙸𝚗𝚝𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗</h1>
